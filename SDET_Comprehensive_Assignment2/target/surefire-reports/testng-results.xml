@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-29T10:53:09 IST" name="Suite" finished-at="2023-08-29T10:53:49 IST" duration-ms="39252">
+    <groups>
+    </groups>
+    <test started-at="2023-08-29T10:53:09 IST" name="Test" finished-at="2023-08-29T10:53:49 IST" duration-ms="39252">
+      <class name="com.qa.testscripts.AutomationAnywhereTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testscripts.AutomationAnywhereTest@188715b5]" started-at="2023-08-29T10:53:09 IST" name="setUp" finished-at="2023-08-29T10:53:32 IST" duration-ms="23120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkLogoPage()[pri:0, instance:com.qa.testscripts.AutomationAnywhereTest@188715b5]" started-at="2023-08-29T10:53:33 IST" name="checkLogoPage" finished-at="2023-08-29T10:53:41 IST" duration-ms="8834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogoPage -->
+        <test-method signature="checkRequestDemoPage()[pri:1, instance:com.qa.testscripts.AutomationAnywhereTest@188715b5]" started-at="2023-08-29T10:53:41 IST" name="checkRequestDemoPage" finished-at="2023-08-29T10:53:48 IST" duration-ms="6518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRequestDemoPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testscripts.AutomationAnywhereTest@188715b5]" started-at="2023-08-29T10:53:48 IST" name="tearDown" finished-at="2023-08-29T10:53:49 IST" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscripts.AutomationAnywhereTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
